@@ -1,2 +1,2 @@
 # Front-End-Projects-for-Patika-
-https://patika-cohorts-prod.s3-eu-central-1.amazonaws.com/userFiles/batuhankayahan/batuhankayahan/projects/oyJ-PSmAtB_PcnSOK97oe-html-food-site?0.6921332230043138
+![image](https://github.com/batuhanlog/Front-End-Projects-Patika/assets/82649079/5ed83c51-f4af-4783-aa65-9ed4590ed97e)
