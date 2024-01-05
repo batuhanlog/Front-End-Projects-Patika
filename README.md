@@ -1,4 +1,6 @@
 # Front end Projects 🔥
+
+![images](https://github.com/batuhanlog/Front-end-Projects/assets/82649079/428fdc36-330b-43b8-a50c-59a65a8baf1c)
 ![screencapture-127-0-0-1-5500-Home-html-2024-01-01-22_04_08](https://github.com/batuhanlog/Front-end-Projects/assets/82649079/28567be2-159f-456e-bea7-39db1ac21d3a)
 ![about-us](https://github.com/batuhanlog/Front-end-Projects/assets/82649079/913ec22f-ae31-408b-ba78-b0a1d9953162)
 ![products](https://github.com/batuhanlog/Front-end-Projects/assets/82649079/209d3b26-a156-4948-8067-24ffe07f1184)
