@@ -1,5 +1,6 @@
 # Front end Projects 🔥
 
+![Screenshot (9)](https://github.com/batuhanlog/Front-end-Projects/assets/82649079/ed72b8f0-acd8-4dd9-94ca-ab247e4ddb5b)
 ![screencapture-127-0-0-1-5500-index-html-2024-01-09-02_19_52](https://github.com/batuhanlog/Front-end-Projects/assets/82649079/b96baf37-359e-4383-8e47-0fd6e47b6a6b)
 
 
